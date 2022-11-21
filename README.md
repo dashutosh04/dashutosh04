@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ashutosh Das</h1>
+<h3 align="center">Just completed schooling & now learning to code. 💫</h3>
+
 # 💫 About Me:
 
 🤖 I am currently developing Discord Bots<br>🔎 I’m currently learning `.py` || `.js` || `.cpp` <br>📫 My Email id :- ashutoshdas2004@gmail.com<br>⚡ Fun fact I really like DIY projects 😉<br>
