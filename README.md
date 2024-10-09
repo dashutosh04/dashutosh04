@@ -1,5 +1,3 @@
-</style>
-
 <h1 align="center">Hi 👋, I'm Ashutosh Das</h1>
 <h3 align="center"> I am a Tech Enthusiast and a Computer Science Student from Delhi, India. </h3>
 
