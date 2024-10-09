@@ -1,9 +1,3 @@
-<style>
-  .avatar-img {
-  border-radius: 25%; 
-  width: 200px; 
-  height: 200px;
-}
 </style>
 
 <h1 align="center">Hi 👋, I'm Ashutosh Das</h1>
@@ -126,6 +120,7 @@
 </div>
 
 ###
+## 
 
 # 📊 GitHub Stuff:
 
