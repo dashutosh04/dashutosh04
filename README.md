@@ -129,11 +129,7 @@
 </div>
 </h4>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashutosh04/dashutosh04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashutosh04/dashutosh04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dashutosh04/dashutosh04/output/pacman-contribution-graph.svg">
-</picture>
+![](https://github.com/dashutosh04/dashutosh04/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
