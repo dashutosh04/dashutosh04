@@ -1,15 +1,20 @@
 <div align="center">
   <h1>Hi 👋, I'm Ashutosh Das</h1>
   <p>Computer Science student from Delhi, India, building practical software across systems, infrastructure, and the web.</p>
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Computer+Science+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;Linux+%26+Infrastructure+Enthusiast+%F0%9F%90%A7;Building+Practical+Software+%F0%9F%9B%A0%EF%B8%8F;Exploring+Systems+and+the+Web+%F0%9F%8C%90" alt="dashutosh04" /></a>
 </div>
 
 ## 💫 About Me
 
+<img align="right" height="150" src=".github/av.gif" alt="Ashutosh Das avatar" />
+
 - 🤖 Exploring new technologies and software development.
 - 🔎 Building projects with Python and other practical tools.
 - 🐧 Interested in Linux, infrastructure, and systems.
 - ⚡ Enjoy experimenting with DIY projects and technology.
+
+<br clear="right" />
 
 ## 🌐 Connect With Me
 
@@ -21,15 +26,9 @@
 
 ## 💻 Tech Stack
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/68150772?v=4" class = "avatar-img" />
-
-
 <img src="https://skillicons.dev/icons?i=c,py,git,github,md,npm" height="38" alt="C, Python, Git, GitHub, Markdown, and npm" />
-<br />
 <img src="https://skillicons.dev/icons?i=linux,cloudflare,nginx,raspberrypi,arduino" height="38" alt="Linux, Cloudflare, Nginx, Raspberry Pi, and Arduino" />
-<br />
 <img src="https://skillicons.dev/icons?i=mysql,vscode,discord" height="38" alt="MySQL, VS Code, and Discord" />
-<br />
 <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,canva" height="38" alt="Adobe After Effects, Illustrator, Photoshop, Premiere Pro, and Canva" />
 
 ## 📊 GitHub Stats
